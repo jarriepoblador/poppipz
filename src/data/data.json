@@ -1,0 +1,27 @@
+[  
+    {
+        "id": "1",
+        "name": "Garry Kasparov",
+        "imagePath": "images/GarryKasparov.jpg",
+        "details": "Garry Kasparov is a former world chess champion, writer, and political activist. He was born on April 13, 1963, in Baku, Azerbaijan, which was then part of the Soviet Union. Kasparov became the youngest ever undisputed World Chess Champion in 1985 at the age of 22 and held the title for 15 years until he was defeated by Vladimir Kramnik in 2000. He is widely regarded as one of the greatest chess players of all time and has made significant contributions to the development of chess theory. In addition to his chess career, Kasparov has been an outspoken critic of the Russian government and has been involved in various human rights and political causes."
+      },
+      {
+        "id": "2",
+        "name": "Magnus Carlsen",
+        "imagePath": "images/MagnusCarlsen.jpg",
+        "details": "Magnus Carlsen is a Norwegian chess grandmaster who is considered one of the greatest chess players of all time. He was born on November 30, 1990, in Tønsberg, Norway, and learned to play chess at the age of 5. Carlsen is known for his aggressive and unorthodox playing style, as well as his exceptional positional and endgame skills. He has also been involved in promoting chess around the world, including through the creation of the Magnus Carlsen Chess Tour and the Chessable Masters tournament."
+      },
+      {
+        "id": "3",
+        "name": "Anatoly Karpov",
+        "imagePath": "images/AnatolyKarpov.jpg",
+        "details": "Anatoly Karpov is a Russian chess grandmaster and former World Chess Champion. He was born on May 23, 1951, in Zlatoust, Soviet Union (now Russia), and learned to play chess at the age of 4. Karpov is known for his solid and positional playing style, as well as his exceptional endgame skills. He has won numerous major tournaments throughout his career, including the Candidates Tournament six times, and he has represented the Soviet Union and Russia in numerous international competitions. Karpov has also been involved in promoting chess around the world, including through the creation of the Karpov Chess School."
+      },
+      {
+        "id": "4",
+        "name": "Bobby Fischer",
+        "imagePath": "images/BobbyFischer.jpg",
+        "details": "Bobby Fischer was an American chess player who is widely considered one of the greatest chess players of all time. He was born on March 9, 1943, in Chicago, Illinois, and learned to play chess at the age of 6. Fischer is known for his aggressive and uncompromising playing style, as well as his exceptional tactical and endgame skills. He was also known for his outspoken and sometimes controversial personality, which made him a media sensation. However, Fischer's behavior became increasingly erratic later in his life, and he withdrew from competitive chess for many years. He died on January 17, 2008, in Reykjavik, Iceland, at the age of 64."
+      }
+
+]
