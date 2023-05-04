@@ -38,7 +38,9 @@ function App() {
                     <ul class="list-unstyled chat-list mt-2 mb-0">
 
                         {users.map(user => (
-                        <li key={user.id} onClick={() => {handleClick(user.id); handleUserClick(user.id)}} class="clearfix">
+                        <li key={user.id} onClick={() => {handleClick(user.id); handleUserClick(user.id)}} class={`clearfix ${
+                            user.id === selectedUserId ? "active" : ""
+                          }`}>
                         <img src={user.imagePath} alt=""></img>
                             <div class="about">
                                  <div class="name">{user.name}

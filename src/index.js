@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
+import HeaderComponent from './components/headercomp/header';
 import NavbarComponent from './components/navbarcomp/navbar';
 import ContentComponent from './components/contentcomp/content';
 import ClickableComponent from './components/clickablecomp/clickable';
@@ -18,6 +19,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <NavbarComponent />
+    <HeaderComponent />
     <ContentComponent />
     <ClickableComponent />
   </React.StrictMode>

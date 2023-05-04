@@ -9,6 +9,18 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.bg-image {
+  background-image: url('https://wallpapercave.com/wp/wp2883330.jpg');
+  height: 450px;
+  background-position: top 35% left 50%;
+  background-size: cover;
+}
+
+.mask {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+
 body {
     background: #fff;
     color: #666666;
